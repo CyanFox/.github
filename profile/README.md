@@ -1,4 +1,4 @@
-# CyanFox Organization
+# CyanFox
 
 Welcome to the CyanFox GitHub organization! 🦊
 
@@ -34,7 +34,7 @@ Please read our [contribution guidelines](../CONTRIBUTING.md) before submitting 
 
 - Issues: Use the issues tab in each repository for bug reports and feature requests.
 - Discussions: Join our community discussions for Q&A, ideas, and feedback.
-- Contact: For organization-wide inquiries, email us at info@cyanfox.de.
+- Contact: For organization-wide inquiries, email us at [info@cyanfox.de](mailto:info@cyanfox.de)
 
 ## Code of Conduct
 
