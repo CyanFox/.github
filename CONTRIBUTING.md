@@ -62,9 +62,4 @@ Please adhere to the coding style used in the project. This includes:
 - Comments where necessary to explain complex logic.
 - Following language-specific best practices.
 
-## Additional Resources
-
-- [Project Documentation](https://github.com/CyanFox-Labs/CyanFox-Base/wiki)
-- [Issue Tracker](https://github.com/CyanFox-Labs/CyanFox-Base/issues)
-
 We are grateful for your contributions and look forward to collaborating with you!
