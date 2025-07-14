@@ -28,7 +28,7 @@ We welcome contributions from everyone! To get started:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a clear description of your changes.
 
-Please read our [contribution guidelines](CONTRIBUTING.md) before submitting your pull request.
+Please read our [contribution guidelines](../CONTRIBUTING.md) before submitting your pull request.
 
 ## Community & Support
 
@@ -38,7 +38,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) before submitting you
 
 ## Code of Conduct
 
-We are committed to providing a welcoming and inclusive environment for all. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+We are committed to providing a welcoming and inclusive environment for all. Please review our [Code of Conduct](../CODE_OF_CONDUCT.md) before participating.
 
 ---
  
