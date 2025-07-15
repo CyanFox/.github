@@ -1,9 +1,9 @@
-<section class="m-20">
+<section class="m-10">
     <h1 class="text-2xl font-bold">Postanschrift:</h1>
     <p>Lenny Petschl<br>
         Hirschberger Str. 10A<br>
         92339 Beilngries<br>
-        Email: <a class="link" href="mailto:lenny@petschl.org">lenny@petschl.org</a></p><br>
+        Email: <a class="link" href="mailto:info@cyanfox.de">info@cyanfox.de</a></p><br>
     <em><strong>Keine Abmahnung ohne vorherigen Kontakt!</strong></em>
     <p>Sollte
         der Inhalt oder die Aufmachung dieser Seiten fremde Rechte Dritter oder

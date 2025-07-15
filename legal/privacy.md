@@ -1,4 +1,4 @@
-<section class="m-20">
+<section class="m-10">
     <p>Ich nehme den Schutz Deiner persönlichen Daten sehr ernst und
         behandle Deine personenbezogenen Daten vertraulich und entsprechend der
         gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.</p><br>
@@ -6,7 +6,7 @@
     <h3 class="text-xl font-bold">WER IST VERANTWORTLICH FÜR DIE DATENERFASSUNG AUF DIESER WEBSITE?</h3>
     <p>Die Datenverarbeitung auf dieser Website erfolgt durch</p>
     <p><b>Lenny Petschl<br>Hirschberger Str. 10A<br>92339 Beilngries</b></p>
-    <p><b><a class="link" href="mailto:lenny@petschl.org">lenny@petschl.org</a></b></p>
+    <p><b><a class="link" href="mailto:info@cyanfox.de">info@cyanfox.de</a></b></p>
     <p>Weitere Angaben finden Sie im <a class="link" href="/impress">Impressum</a></p><br>
     <p class="text-xl font-bold">Wie erfassen wir Ihre Daten?</p>
     <p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese
